@@ -6,4 +6,4 @@ const nextConfig = {
     // Your Next.js config here
 }
 
-export default withPayload(withSitecenter(nextConfig))
+export default withSitecenter(withPayload(nextConfig))
