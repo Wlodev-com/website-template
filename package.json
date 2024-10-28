@@ -1,0 +1,22 @@
+{
+    "name": "astrojs-website-template",
+    "private": true,
+    "scripts": {
+        "build": "turbo build",
+        "dev": "turbo dev"
+    },
+    "workspaces": [
+        "apps/*"
+    ],
+    "devDependencies": {
+        "prettier": "^3.2.5",
+        "turbo": "2.0.9"
+    },
+    "packageManager": "npm@10.8.3",
+    "engines": {
+        "node": ">=18"
+    },
+    "dependencies": {
+        "sitecenter": "^0.2.3"
+    }
+}
