@@ -34,5 +34,5 @@ export default buildConfig({
             maxIdleTimeMS: 1000,
         },
     }),
-    plugins: [sitecenter()],
+    plugins: [sitecenter({})],
 })
