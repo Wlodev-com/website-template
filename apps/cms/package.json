@@ -18,7 +18,7 @@
         "payload": "beta",
         "react": "19.0.0-rc-65a56d0e-20241020",
         "react-dom": "19.0.0-rc-65a56d0e-20241020",
-        "sitecenter": "^0.3.5"
+        "sitecenter": "^0.3.6"
     },
     "devDependencies": {
         "@types/node": "^22.5.4",
