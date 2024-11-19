@@ -34,6 +34,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# sitecenter
+.wlodev
+.open-next
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
@@ -41,5 +45,3 @@ next-env.d.ts
 .env
 
 /media
-
-.open-next

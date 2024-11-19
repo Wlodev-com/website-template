@@ -9,16 +9,16 @@
         "generate:types": "cross-env NODE_OPTIONS=--no-deprecation payload generate:types"
     },
     "dependencies": {
-        "@payloadcms/db-mongodb": "beta",
-        "@payloadcms/next": "beta",
-        "@payloadcms/richtext-lexical": "beta",
+        "@payloadcms/db-mongodb": "^3.0.0",
+        "@payloadcms/next": "^3.0.0",
+        "@payloadcms/richtext-lexical": "^3.0.0",
         "cross-env": "^7.0.3",
         "graphql": "^16.8.1",
         "next": "15.0.0",
-        "payload": "beta",
+        "payload": "^3.0.0",
         "react": "19.0.0-rc-65a56d0e-20241020",
         "react-dom": "19.0.0-rc-65a56d0e-20241020",
-        "sitecenter": "^0.3.6"
+        "sitecenter": "^0.4.0"
     },
     "devDependencies": {
         "@types/node": "^22.5.4",
