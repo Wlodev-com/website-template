@@ -1,4 +1,3 @@
-// storage-adapter-import-placeholder
 import path from 'path'
 import { fileURLToPath } from 'url'
 import { buildConfig } from 'payload'
