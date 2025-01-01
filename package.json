@@ -1,5 +1,5 @@
 {
-    "name": "astrojs-website-template",
+    "name": "website-template",
     "private": true,
     "scripts": {
         "build": "turbo build",
